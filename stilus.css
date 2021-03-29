@@ -1,0 +1,11 @@
+@charset "utf-8";
+main {
+    width:80%;
+    max-width:400px;
+    margin:auto;
+    padding:10px
+}
+section{background:#9999ff;}
+#cim, footer, header{
+    text-align: center;
+}
